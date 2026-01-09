@@ -41,6 +41,6 @@ Shows a default greeting message.
 * Result:![img.png](img.png)
 
 ### 3. Custom Greeting
-Shows a greeting using the name "Student".
+Shows a greeting using the name "Steve".
 * **Link:** http://localhost:8080/greeting?name=Student
-* Result: ![img_3.png](img_3.png)
+* Result: ![img_2.png](img_2.png)
