@@ -33,12 +33,12 @@ Here are the three pages I created for this task:
 ### 1. Home Page
 Shows the welcome text and the Vistula logo.
 * **Link:** http://localhost:8080/
-* Result: ![img_1.png](img_1.png)
 
+* Result:![img.png](img.png)
 ### 2. Standard Greeting
 Shows a default greeting message.
 * **Link:** http://localhost:8080/greeting
-* Result:![img.png](img.png)
+* Result: ![img_1.png](img_1.png)
 
 ### 3. Custom Greeting
 Shows a greeting using the name "Steve".
